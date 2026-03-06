@@ -1,0 +1,29 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+history.txt
+
+# Temporary files
+*.tmp
+*.bak
+
+# Music files (optional, if you don't want to commit sample music)
+# music/**/*.mp3
+# music/**/*.wav
