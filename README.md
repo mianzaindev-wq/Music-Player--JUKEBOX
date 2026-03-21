@@ -102,3 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 This software is provided as-is for educational and personal use. Ensure you have legal rights to play the music files you use with this player.
+
+## Future Plans:
+
+- Will be working on UI and better Navigation in near Future.
